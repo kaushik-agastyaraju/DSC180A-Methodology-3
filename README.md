@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Kaushik Agastyaraju
-kagastyaraju@ucsd.edu
+Kaushik Agastyaraju and Junran Yang
